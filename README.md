@@ -11,4 +11,4 @@ Additionally, you can select multiple words and copy them to clipboard — usefu
 - Hilt
 
 Screenshots:
-![image alt] (https://github.com/VitBoj/MyWordStorage/blob/master/app_screenshots.jpg?raw=true)
+![image alt](https://github.com/VitBoj/MyWordStorage/blob/master/app_screenshots.jpg?raw=true)
