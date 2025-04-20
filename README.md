@@ -1,14 +1,15 @@
-A simple Android app to help you learn and manage vocabulary.
+A simple Android app for learning and managing vocabulary.
 
-You can save words along with their translations, transcriptions, examples, and organize them into categories.
-Words can be  marked as learned, and practiced in a basic quiz mode ("guess the word").
-Additionally, you can select multiple words and copy them to clipboard — useful for generating texts in AI chat tools.
+Words can be saved along with their translations, transcriptions, examples, and organized into categories.
+Words can also be marked as learned and practiced through quiz mode ("guess the word").
+Additionally, multiple words can be selected and copied to the clipboard — useful for generating texts in AI chat.
 
  Built with:
 - Kotlin
 - Jetpack Compose
 - Room
 - Hilt
+- And Love ❤️😊
 
 Screenshots:
 ![image alt](https://github.com/VitBoj/MyWordStorage/blob/master/app_screenshots.jpg?raw=true)
