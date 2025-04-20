@@ -9,3 +9,6 @@ Additionally, you can select multiple words and copy them to clipboard — usefu
 - Jetpack Compose
 - Room
 - Hilt
+
+Screenshots:
+![image alt] (https://github.com/VitBoj/MyWordStorage/blob/master/app_screenshots.jpg?raw=true)
