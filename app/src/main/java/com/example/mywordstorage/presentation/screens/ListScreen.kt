@@ -129,7 +129,7 @@ fun ListScreen(
             )
             //-----Word List--------
             LazyColumn(modifier = Modifier.fillMaxSize()) {
-                items(filteredWords, key = { it.id }) { word ->
+                items(filteredWords) { word ->
                     WordListItem(
                         word = word,
                         onDelete = { sharedViewModel.deleteWord(word.id) },
